@@ -155,20 +155,11 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="310.82" default-y="-30">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-          </pitch>
+      <note default-x="310.82" default-y="-20">
+        <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem>up</stem>
-        <notations>
-          <articulations>
-            <staccato default-x="4.93" default-y="-43.44"/>
-            </articulations>
-          </notations>
         </note>
       <note default-x="387.92" default-y="-20">
         <rest/>
@@ -225,20 +216,11 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="205.25" default-y="-30">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-          </pitch>
+      <note default-x="205.25" default-y="-20">
+        <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem>up</stem>
-        <notations>
-          <articulations>
-            <staccato default-x="4.93" default-y="-43.44"/>
-            </articulations>
-          </notations>
         </note>
       <note default-x="282.35" default-y="-20">
         <rest/>
